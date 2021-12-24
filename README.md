@@ -20,11 +20,7 @@
 <a href="https://vant-contrib.gitee.io/vant/v3/#/zh-CN"><code><img height="20" src="./images/vant.png"></code></a>
 <a href="https://www.docker.com"><code><img height="20" src="./images/docker.png"></code></a>
 
-### 开源项目
 
-[![qq-bot](https://github-readme-stats.vercel.app/api/pin/?username=030666&repo=qq-bot)](https://github.com/030666/qq-bot)
-[![qq-bot](https://github-readme-stats.vercel.app/api/pin/?username=030666&repo=vue3-electron-serialport)](https://github.com/Minori-ty/vue3-electron-serialport)
-<br><br><br>
 
 ### Github 活跃度
 
