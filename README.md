@@ -1,10 +1,6 @@
 <img align="right" src="https://count.getloli.com/get/@:Minori-ty?theme=rule34">
 
-### **社交主页：**
 
- <img align="right" alt="GIF" src="./images/code.gif" width="430" height="100%" />
- 
- -   <a href="https://blog.csdn.net/weixin_53051813?spm=1010.2135.3001.5343/user/1214304985296439/posts"><code><img height="20" width="50" src="./images/juejin.png"></code></a>
 ### Github 活跃度
 
 [![](https://activity-graph.herokuapp.com/graph?username=030666&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
