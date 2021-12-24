@@ -22,13 +22,13 @@
 
 ### 开源项目
 
-[![qq-bot](https://github-readme-stats.vercel.app/api/pin/?username=Minori-ty&repo=qq-bot)](https://github.com/Minori-ty/qq-bot)
-[![qq-bot](https://github-readme-stats.vercel.app/api/pin/?username=Minori-ty&repo=vue3-electron-serialport)](https://github.com/Minori-ty/vue3-electron-serialport)
+[![qq-bot](https://github-readme-stats.vercel.app/api/pin/?username=030666&repo=qq-bot)](https://github.com/030666/qq-bot)
+[![qq-bot](https://github-readme-stats.vercel.app/api/pin/?username=030666&repo=vue3-electron-serialport)](https://github.com/Minori-ty/vue3-electron-serialport)
 <br><br><br>
 
 ### Github 活跃度
 
-[![](https://activity-graph.herokuapp.com/graph?username=Minori-ty&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-![Minori-ty's github stats](https://github-readme-stats.vercel.app/api?username=Minori-ty&show_icons=true&theme=vue)
+[![](https://activity-graph.herokuapp.com/graph?username=030666&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Minori-ty's github stats](https://github-readme-stats.vercel.app/api?username=030666&show_icons=true&theme=vue)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Minori-ty)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=030666)
