@@ -1,5 +1,7 @@
 <img align="right" src="https://count.getloli.com/get/@:Minori-ty?theme=rule34">
-### Hey，我是一枚程序员！
+### Hey，我是一枚程序员
+<br />
+
 大学本科在读，如果你想了解我：
   <img align="right" alt="GIF" src="https://github.com/likaia/likaia/blob/main/code.gif" width="430" height="100%" />
 
