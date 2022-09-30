@@ -30,5 +30,5 @@
   [![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB)]()
   [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)]()
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=030666)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chen020506)
 <img align="right" alt="GIF" src="https://github.com/likaia/likaia/blob/main/code.gif" width="400" height="100%" />
